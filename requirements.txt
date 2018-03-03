@@ -1,0 +1,2 @@
+textblob
+vaderSentiment==2.5
